@@ -1,0 +1,8 @@
+debug: false
+server:
+  addr: 0.0.0.0:8088
+guacd:
+  hostname: 127.0.0.1
+  port: 4822
+  recording: '/usr/local/quick-terminal/data/recording'
+  drive: '/usr/local/quick-terminal/data/drive'

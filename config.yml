@@ -1,0 +1,9 @@
+debug: true
+demo: false
+server:
+  addr: 0.0.0.0:8088
+guacd:
+  hostname: 127.0.0.1
+  port: 4822
+  recording: 'data/recording'
+  drive: 'data/drive'
